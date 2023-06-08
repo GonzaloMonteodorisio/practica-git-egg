@@ -1,3 +1,5 @@
 Este es un contenido útil para hacer pruebas.
 
+Esta es la línea agregada para hacer merge en la rama prueba-merge.
+
 Línea agregada a la rama master.
