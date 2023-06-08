@@ -1,1 +1,3 @@
-Este es un contenido para hacer pruebas.
+Este es un contenido útil para hacer pruebas.
+
+Línea agregada a la rama master.
